@@ -87,5 +87,12 @@ p {
 }
 
 .submit-button {
-  background-color: #6fe06f;
+  background-color: #66c966;
+  width: 100%;
+  padding: 1rem;
+  color: #fff;
+  border: none;
+  display: block;
+  border-radius: 0.2rem;
+  cursor: pointer;
 }
